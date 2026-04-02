@@ -1,6 +1,7 @@
-Project Demo: [Screencast from 02-13-2026 12:31:23 PM.webm](https://github.com/user-attachments/assets/edad0c84-c8d7-420d-8b69-bd34e5e18cd9)
+Project Demo: [Screencast from 02-13-2026 12:31:23 PM.webm](https://github.com/user-attachments/assets/9df016d3-349f-4085-ab1c-5fcc3871db04)
 
 # AI Chat Application
+
 
 A modern, full-stack AI-powered chat application built with Next.js, Supabase, and Google's Gemini AI. This project provides a seamless chat experience where users can interact with an AI assistant, with all conversations securely stored in the cloud.
 
